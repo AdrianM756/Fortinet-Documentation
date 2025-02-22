@@ -1,4 +1,4 @@
-## FortiGaate
+## FortiGate
 
 [FortiGate Next-Generation Firewalls (NGFWs)](https://www.fortinet.com/products/next-generation-firewall) protect data, assets, and users across today’s hybrid environments. Built on patented Fortinet security processors, FortiGate NGFWs accelerate security and networking performance to effectively secure the growing volume of data-rich traffic and cloud-based applications. 
 
